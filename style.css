@@ -1,0 +1,38 @@
+body {font-family: 'Times New Roman', Times, serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;}
+    header {background-color: #df18b3;
+    color: rgb(255, 255, 255);
+    padding: 25px;
+    text-align: center;}
+    main {padding: 20px;}
+Seus trabalhos
+.programacao{
+background-color: white;
+border-radius: 8px;
+padding: 15px;
+box-shadow: 0 0 10px rgb(255, 255, 255);}
+.programa {
+display: flex;
+justify-content: space-between;
+padding: 10px 0;
+border-bottom: 1px solid #ddd;}
+.programa:last-child {border-bottom:
+none;}
+.programa:last-child {border-bottom:
+    none;}
+
+    .hora {font-weight: lighter;
+    color: #b30044;}
+    .titulo {color: #242323;}
+    footer {
+    background-color: #df18b3;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;}
+
+    .imagem {width: 12%;}
