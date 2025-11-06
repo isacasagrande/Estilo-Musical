@@ -2,7 +2,7 @@ body {font-family: 'Times New Roman', Times, serif;
     background-color: #f1f1f1;
     margin: 0;
     padding: 0;}
-    header {background-color: #df18b3;
+    header {background-color: #69014a;
     color: rgb(255, 255, 255);
     padding: 25px;
     text-align: center;}
@@ -24,10 +24,10 @@ none;}
     none;}
 
     .hora {font-weight: lighter;
-    color: #b30044;}
+    color: #69014a;}
     .titulo {color: #242323;}
     footer {
-    background-color: #df18b3;
+    background-color: #69014a;
     color: white;
     text-align: center;
     padding: 10px;
